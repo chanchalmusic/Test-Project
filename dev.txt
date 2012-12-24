@@ -1,0 +1,3 @@
+will this be replaced?
+this text will be appended
+this is another replacement line

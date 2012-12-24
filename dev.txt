@@ -2,3 +2,4 @@ will this be replaced?
 this text will be appended
 this is another replacement line
 this is another appened line
+this is another appened line second time

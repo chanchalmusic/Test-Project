@@ -1,0 +1,3 @@
+changing this file to see the effects of pull.
+Another file is modified in another working directory.
+Not this one. So git pull should change only this one, Not the modified one of that directory
